@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+#heading_1
+{
+font-size: 35px;
+width: 70%;
+text-align: center;
+border-radius: 34px;
+height: 50px;
+background-color: black;
+color: white;
+}
+
+#status, #number_of_objects
+{
+font-size: 18px;
+}
+canvas {
+    background-color: white;
+    margin-top: 70px;
+    box-shadow: 5px 7px 3px black;
+    border-radius: 30px;
+    border: ridge palegoldenrod 3px;
+}
+
